@@ -7,4 +7,4 @@ I am  thinking this will lead to conflict. We try to solve the conflicts.
 
 Modified from the server. Please accept the changes.
 
-Mac update
+Feature #1 is added here.
